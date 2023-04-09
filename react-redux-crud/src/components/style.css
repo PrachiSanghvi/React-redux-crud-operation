@@ -1,0 +1,15 @@
+.show-employee-list {
+  text-align: center;
+}
+.show-employee-list .employee-list-title{
+  margin-bottom: 15px;
+}
+.show-employee-list .list-wrapper {
+  border: 1px solid black;
+  width: fit-content;
+  margin: auto;
+}
+.show-employee-list .list-data {
+  border-right: 1px solid black;
+  padding: 0 10px;
+}
